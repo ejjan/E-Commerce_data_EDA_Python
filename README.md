@@ -11,5 +11,5 @@ This is a transnational data set which contains all the transactions occurring b
 * Order Frequency by Date
 * Order Frequency by Day of Week
 * Order Frequency by Country (Create Choropleth Map using Plotly)
-* Which country's customers had highest average spending
+* Which country's customers had highest average spending per order
 * Word Frequency of Product Description
